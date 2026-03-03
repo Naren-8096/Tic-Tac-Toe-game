@@ -1,4 +1,6 @@
+## ▶ Play Live Game
 
+👉 https://naren-8096.github.io/Tic-Tac-Toe-game/
 # Tic Tac Toe Game
 
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
